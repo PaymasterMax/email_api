@@ -1,2 +1,2 @@
 # email_api
-Simple python script to easen up sending emails
+Simple python script to ease up sending emails
